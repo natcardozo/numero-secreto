@@ -3,8 +3,10 @@
 Projeto utilizado nos cursos de lógica de programação da Alura.
 
 ## 💻 Tecnologias
-<div >
-  <img src="https://hdpng.com/images/logo-javascript-png-javascript-for-ile-y-ld-z-600.png">
+<div>
+  <img align="center" alt="Nathalia-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nathalia-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nathalia-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ## 👥 Time
